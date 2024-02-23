@@ -1,0 +1,11 @@
+.navbar-brand-new {
+  float: left;
+  padding: 27.5px 15px;
+  font-size: 23px;
+  line-height: 25px;
+  height: 115px;
+}
+
+h2::after{
+  color: #323232;
+}
